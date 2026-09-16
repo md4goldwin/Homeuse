@@ -1,30 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
 
 #EXTM3U
-#EXTINF:0 tvg-rec="0",Первый канал UHD
-#EXTGRP:новости
-http://iao4rsfk.virelloso.top/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/19241/index.m3u
-#EXTINF:0 tvg-rec="0",Россия 1 UHD
-#EXTGRP:новости
-http://iao4rsfk.virelloso.top/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/19242/index.m3u
-#EXTINF:0 tvg-rec="0",НТВ UHD
-#EXTGRP:новости
-http://iao4rsfk.virelloso.top/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/19405/index.m3u
-#EXTINF:0 tvg-rec="0",РЕН ТВ UHD
-#EXTGRP:новости
-http://iao4rsfk.virelloso.top/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/19404/index.m3u
-#EXTINF:0 tvg-rec="0",Экоспаскоми (Коми)
-#EXTGRP:новости
-http://iao4rsfk.virelloso.top/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/17018/index.m3u
-#EXTINF:0 tvg-rec="3",Sky Sports News HD 50 UK
-#EXTGRP:новости
-http://iao4rsfk.virelloso.top/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/9314/index.m3u
-#EXTINF:0 tvg-rec="0",Крик ТВ HD
-#EXTGRP:новости
-http://iao4rsfk.virelloso.top/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/15012/index.m3u
-#EXTINF:0 tvg-rec="0",РБК HD 50
-#EXTGRP:новости
-http://iao4rsfk.virelloso.top/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/10029/index.m3u
 #EXTINF:0 tvg-rec="0",BBC HD NL
-#EXTGRP:новости
 http://iao4rsfk.virelloso.top/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/19181/index.m3u
